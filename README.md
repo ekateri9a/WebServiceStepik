@@ -1,0 +1,3 @@
+Задания по курсу "Разработка веб сервиса на Java" на https://stepic.org/. 
+https://stepik.org/course/146/info (часть 1).
+https://stepik.org/course/186/info (часть 2).
